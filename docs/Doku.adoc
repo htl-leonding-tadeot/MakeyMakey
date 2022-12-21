@@ -5,6 +5,11 @@ Joachim Pelzeder, Tamara Melcher
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 
+== Erdungsband 
+
+* Krokodilklemme am Makey Makey unten befestigen und an der spielenden Person am Arm mit Klettverschluss festmachen
+
+image::img/erdungsband_spieler.jpg[]
 
 == Banana Piano
 
@@ -64,11 +69,6 @@ Leertaste und schnell genug???
 image::img/arrow_keys_only.jpg[]
 
 Link: https://plays.org/game/mazes-and-keys/
-
-
-== Sth. else
-
-image::img/erdungsband_spieler.jpg[]
 
 
 
